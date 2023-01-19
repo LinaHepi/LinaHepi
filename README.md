@@ -24,7 +24,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
       <a>
         <img src="./img/java.png" width="48" height="48" alt="java" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>Java
     </td>
     <td align="center" width="96">
       <a>
@@ -34,15 +34,15 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/spring.png" width="48" height="48" alt="Spring" />
       </a>
-      <br>Go
+      <br>Spring
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./img/angular.png" width="48" height="48" alt="Angular" />
       </a>
-      <br>Jsonnet
+      <br>Angular
     </td>
     <td align="center" width="96">
       <a>
