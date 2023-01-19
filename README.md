@@ -11,7 +11,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 🌱 &nbsp; I’m currently learning Typescript; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📝 &nbsp; Checkout my [resume]()
-- 📚 &nbsp; When I am free, I read classic novels. 
+- 📚 &nbsp; When I am free, I read classic novels, I collects leaves and play with cats. 
 
 <h2>Favorite Tech</h2>
 
