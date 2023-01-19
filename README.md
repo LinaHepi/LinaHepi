@@ -60,7 +60,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
       <a>
         <img src="./img/jquery.png" width="48" height="48" alt="JQuery" />
       </a>
-      <br>React
+      <br>JQuery
     </td>
     <td align="center" width="96">
       <a>
