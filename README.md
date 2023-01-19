@@ -58,7 +58,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+        <img src="./img/jquery.png" width="48" height="48" alt="JQuery" />
       </a>
       <br>React
     </td>
