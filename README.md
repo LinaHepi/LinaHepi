@@ -96,7 +96,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./img/django.png" width="48" height="48" alt="Django" />
+        <img src="./img/django.jpg" width="48" height="48" alt="Django" />
       </a>
       <br>Django
     </td>
@@ -108,7 +108,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./img/docker.png" width="48" height="48" alt="Docker" />
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
