@@ -22,7 +22,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="./img/java.png" width="48" height="48" alt="java" />
       </a>
       <br>C#&nbsp;(Core)
     </td>
